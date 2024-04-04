@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/card-holder/static/css/main.447daa51.css",
-    "main.js": "/card-holder/static/js/main.735e2c46.js",
+    "main.css": "/card-holder/static/css/main.bb0605e0.css",
+    "main.js": "/card-holder/static/js/main.b787fbf9.js",
     "static/js/787.2c1c850b.chunk.js": "/card-holder/static/js/787.2c1c850b.chunk.js",
     "index.html": "/card-holder/index.html",
-    "main.447daa51.css.map": "/card-holder/static/css/main.447daa51.css.map",
-    "main.735e2c46.js.map": "/card-holder/static/js/main.735e2c46.js.map",
+    "main.bb0605e0.css.map": "/card-holder/static/css/main.bb0605e0.css.map",
+    "main.b787fbf9.js.map": "/card-holder/static/js/main.b787fbf9.js.map",
     "787.2c1c850b.chunk.js.map": "/card-holder/static/js/787.2c1c850b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.447daa51.css",
-    "static/js/main.735e2c46.js"
+    "static/css/main.bb0605e0.css",
+    "static/js/main.b787fbf9.js"
   ]
 }
